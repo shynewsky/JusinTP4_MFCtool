@@ -1,0 +1,14 @@
+Effect|BossMultiAttack|37|..\Texture\Stage\Effect\BossMultiAttack\BossMultiAttack%d.png
+Effect|Crash|4|..\Texture\Stage\Effect\Crash\Crash%d.png
+Effect|Cray|8|..\Texture\Stage\Effect\Cray\Cray%d.png
+Effect|Dust|6|..\Texture\Stage\Effect\Dust\Dust%d.png
+Effect|ElectronicShock|9|..\Texture\Stage\Effect\ElectronicShock\ElecShock%d.png
+Effect|Fire|39|..\Texture\Stage\Effect\Fire\AKAAKIHA_AKI51_%d.png
+Player|Attack|2|..\Texture\Stage\Player\Attack\Pikachu_Down_Attack_%d.png
+Player|Face|4|..\Texture\Stage\Player\Face\pikachu%d.png
+Player|Hurt|1|..\Texture\Stage\Player\Hurt\Pikachu_Down_Hurt_%d.png
+Player|Idle|1|..\Texture\Stage\Player\Idle\Pikachu_Down_Idle_%d.png
+Player|Move|3|..\Texture\Stage\Player\Move\Pikachu_Down_Move_%d.png
+Player|Skill|2|..\Texture\Stage\Player\Skill\Pikachu_Down_Skill_%d.png
+Terrain|Tile|47|..\Texture\Stage\Terrain\Tile\%d.png
+UI|Scenario|1|..\Texture\Stage\UI\Scenario\UiWindow%d.png

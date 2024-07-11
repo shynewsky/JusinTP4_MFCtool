@@ -1,0 +1,4 @@
+pikachu	normal	hi	
+pikachu	smile	hehe	
+pikachu	angry	PIKA!	
+pikachu	happy	yeay!	
